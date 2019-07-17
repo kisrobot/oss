@@ -6,8 +6,8 @@ import (
 
 	awss3 "github.com/aws/aws-sdk-go/service/s3"
 	"github.com/jinzhu/configor"
-	"github.com/qor/oss/s3"
-	"github.com/qor/oss/tests"
+	"github.com/kisrobot/oss/s3"
+	"github.com/kisrobot/oss/tests"
 )
 
 type Config struct {
